@@ -7802,11 +7802,11 @@ Requirement already satisfied: six&gt;=1.5 in /usr/local/lib/python3.11/dist-pac
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-python"><pre><span></span><span class="k">def</span> <span class="nf">transformation_pipeline</span><span class="p">(</span><span class="n">num_features</span><span class="p">,</span> <span class="n">cat_features</span><span class="p">):</span>
-    <span class="n">num_transformer_1</span> <span class="o">=</span> <span class="n">StandardScaler</span><span class="p">()</span>
-    <span class="n">cat_transformer_1</span> <span class="o">=</span> <span class="n">OneHotEncoder</span><span class="p">(</span><span class="n">handle_unknown</span><span class="o">=</span><span class="s1">'ignore'</span><span class="p">)</span>
+    <span class="n">num_transformer_1</span> <span class="o">=</span> <span class="n">StandadScaler</span><span class="p">()</span>
+    <span class="n">cat_transformer_1</span> <span class="o">=</span> <span class="n">OneHtEncoder</span><span class="p">(</span><span class="n">handle_unknown</span><span class="o">=</span><span class="s1">'ignore'</span><span class="p">)</span>
     <span class="n">column_transformer_1</span> <span class="o">=</span> <span class="n">ColumnTransformer</span><span class="p">(</span>
         <span class="n">transformers</span><span class="o">=</span><span class="p">[</span>
-            <span class="p">(</span><span class="s1">'num'</span><span class="p">,</span> <span class="n">num_transformer_1</span><span class="p">,</span> <span class="n">num_features</span><span class="p">),</span>
+            <span class="p">(</span><span class="s1">'num'</span><span class="p">,</span> <span class="n">num_transformer</span><span class="p">,</span> <span class="n">num_features</span><span class="p">),</span>
             <span class="p">(</span><span class="s1">'cat'</span><span class="p">,</span> <span class="n">cat_transformer_1</span><span class="p">,</span> <span class="n">cat_features</span><span class="p">)</span>
         <span class="p">]</span>
     <span class="p">)</span>
@@ -8211,7 +8211,7 @@ Requirement already satisfied: six&gt;=1.5 in /usr/local/lib/python3.11/dist-pac
 <div class="jp-InputPrompt jp-InputArea-prompt">In [37]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-python"><pre><span></span><span class="n">cleaned_data</span> <span class="o">=</span> <span class="n">redundant_copy_data</span><span class="p">(</span><span class="n">clean_data</span><span class="p">(</span><span class="n">redundant_copy_data</span><span class="p">(</span><span class="n">raw_data</span><span class="p">)))</span>
+<div class="highlight hl-python"><pre><span></span><span class="n">cleand_data</span> <span class="o">=</span> <span class="n">redudant_copy_data</span><span class="p">(</span><span class="n">clean_data</span><span class="p">(</span><span class="n">redundant_copy_data</span><span class="p">(</span><span class="n">raw_data</span><span class="p">)))</span>
 </pre></div>
 </div>
 </div>
@@ -8229,7 +8229,7 @@ A value is trying to be set on a copy of a slice from a DataFrame.
 Try using .loc[row_indexer,col_indexer] = value instead
 
 See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-  df_4['Amount'] = df_4['Amount'].astype('int')
+  df_4['Amount'] = df_4['Amount'].astypeint
 </pre>
 </div>
 </div>
