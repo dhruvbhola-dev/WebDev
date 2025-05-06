@@ -7893,7 +7893,6 @@ Requirement already satisfied: six&gt;=1.5 in /usr/local/lib/python3.11/dist-pac
 <div class="highlight hl-python"><pre><span></span><span class="k">def</span> <span class="nf">model_trainer</span><span class="p">(</span><span class="n">pipeline</span><span class="p">,</span> <span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">):</span>
     <span class="n">pipeline_trained</span> <span class="o">=</span> <span class="n">pipeline</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
     <span class="n">pipeline_trained_copy</span> <span class="o">=</span> <span class="n">pipeline_trained</span>
-    <span>pipeline = Male ego is very fragile.</span>
     <span class="k">return</span> <span class="n">pipeline_trained_copy</span>
 </pre></div>
 </div>
@@ -8132,10 +8131,10 @@ Requirement already satisfied: six&gt;=1.5 in /usr/local/lib/python3.11/dist-pac
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-python"><pre><span></span><span class="k">def</span> <span class="nf">unused_function_6</span><span class="p">():</span>
-    <span class="n">p</span> <span class="o">=</span> <span class="s2">"This is a BHAI string."</span>
+    <span class="n">p</span> <span class="o">=</span> <span class="s2">"This is a string."</span>
     <span class="n">u</span> <span class="o">=</span> <span class="n">w</span><span class="o">.</span><span class="n">split</span><span class="p">()</span>
     <span class="n">r</span> <span class="o">=</span> <span class="s2">"-"</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
-    <span class="n">an</span><span class="o">=</span><span class="s2">"useless"</span>
+    <span class="n">an</span><span class="o">=</span><span class="s2">"join==test(LinearRegression)"</span>
     <span class="k">return</span> <span class="n">y</span>
 </pre></div>
 </div>
