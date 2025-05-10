@@ -8639,7 +8639,7 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
                 <pre><span></span><span class="k">def</span> <span class="nf">redundant_copy_data</span><span class="p">(</span><span class="n">data</span><span class="p">):</span>
     <span class="k">if</span> <span class="nb">hasattr</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="s1">'copy'</span><span class="p">):</span>
         <span class="k">return</span> <span class="n">data</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span>
-        <span class="n">rt</span><span class="o">=</span><span class="s2">"Warrier"</span>
+        <span class="n">rt</span><span class="o">=</span><span class="s2">"Back"</span>
     <span class="k">return</span> <span class="n">data</span>
 </pre>
               </div>
