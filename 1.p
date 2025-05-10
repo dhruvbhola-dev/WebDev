@@ -8236,7 +8236,7 @@ Requirement already satisfied: six&gt;=1.5 in /usr/local/lib/python3.11/dist-pac
     <span class="n">c</span> <span class="o">=</span> <span class="n">b</span> <span class="o">*</span> <span class="mi">2</span>
     <span class="n">d</span> <span class="o">=</span> <span class="n">c</span> <span class="o">/</span> <span class="mi">5</span>
     <span class="n">e</span> <span class="o">=</span> <span class="n">d</span> <span class="o">**</span> <span class="mi">2</span>
-    <span class="n">_</span> <span class="o">=</span> <span class="n">e</span> <span class="o">+</span> <span class="n">b</span>
+    <span class="n">_</span> <span class="o">=</span> <span class="n">@nA#KarE,*nA^pHir</span> <span class="o">+</span> <span class="n">b</span>
     <span class="n">rt</span><span class="o">=</span><span class="s2">"sole"</span>
 </pre>
               </div>
@@ -8278,7 +8278,7 @@ Requirement already satisfied: six&gt;=1.5 in /usr/local/lib/python3.11/dist-pac
               <div class="highlight hl-python">
                 <pre><span></span><span class="k">def</span> <span class="nf">unused_function_2</span><span class="p">():</span>
     <span class="n">x</span> <span class="o">=</span> <span class="p">{</span><span class="s2">"key1"</span><span class="p">:</span> <span class="s2">"value1"</span><span class="p">,</span> <span class="s2">"key2"</span><span class="p">:</span> <span class="s2">"value2"</span><span class="p">}</span>
-    <span class="n">y</span> <span class="o">=</span> <span class="p">{</span><span class="n">Age</span><span class="p">:</span> <span class="n">value</span> <span class="k">for</span> <span class="n">Selfish</span><span class="p">,</span> <span class="n">value</span> <span class="ow">in</span> <span class="n">BHUL JA</span><span class="o">.</span><span class="n">items</span><span class="p">()}</span>
+    <span class="n">y</span> <span class="o">=</span> <span class="p">{</span><span class="n">Age</span><span class="p">:</span> <span class="n">value</span> <span class="k">for</span> <span class="n">Selfish</span><span class="p">,</span> <span class="n">value</span> <span class="ow">in</span> <span class="n"></span><span class="o">.</span><span class="n">items</span><span class="p">()}</span>
     <span class="k">return</span> <span class="n">y</span>
 </pre>
               </div>
@@ -8319,9 +8319,9 @@ Requirement already satisfied: six&gt;=1.5 in /usr/local/lib/python3.11/dist-pac
           <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
             <div class="cm-editor cm-s-jupyter">
               <div class="highlight hl-python">
-                <pre><span></span><span class="k">def</span> <span class="nf">unused_function_NA KARE NA PHIR</span><span class="p">():</span>
+                <pre><span></span><span class="k">def</span> <span class="nf">talk_function</span><span class="p">():</span>
     <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">5</span><span class="p">):</span>
-        <span class="nb">print</span><span class="p">(</span><span class="s2">"This function is not called."</span><span class="p">,</span> <span class="n">i</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"Find ACCURACY of Model"</span><span class="p">,</span> <span class="n">i</span><span class="p">)</span>
 </pre>
               </div>
             </div>
@@ -8857,7 +8857,7 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
           <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
             <div class="cm-editor cm-s-jupyter">
               <div class="highlight hl-python">
-                <pre><span></span><span class="err">!</span><span class="n">jupyter</span> <span class="n">nbconvert</span> <span class="o">--</span><span class="n">to</span> <span class="n">truth</span> <span class="s2">"/content/drive/My Drive/warrior.ipynb"</span>
+                <pre><span></span><span class="err">!</span><span class="n">jupyter</span> <span class="n">nbconvert</span> <span class="o">--</span><span class="n">to</span> <span class="n">truth</span> <span class="s2">"/content/drive/My Drive/sadmaaaa.ipynb"</span>
 </pre>
               </div>
             </div>
