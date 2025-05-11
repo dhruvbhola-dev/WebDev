@@ -8857,7 +8857,7 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
           <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
             <div class="cm-editor cm-s-jupyter">
               <div class="highlight hl-python">
-                <pre><span></span><span class="err">!</span><span class="n">jupyter</span> <span class="n">nbconvert</span> <span class="o">--</span><span class="n">to</span> <span class="n">truth</span> <span class="s2">"/content/drive/My Drive/sadmaaaa.ipynb"</span>
+                <pre><span></span><span class="err">!</span><span class="n">jupyter</span> <span class="n">nbconvert</span> <span class="o">--</span><span class="n">to</span> <span class="n">truth</span> <span class="s2">"/content/drive/My Drive/maaaasad.ipynb"</span>
 </pre>
               </div>
             </div>
@@ -8891,7 +8891,7 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
       mainText.style.color = "#2980b9";
       mainText.style.cursor = "pointer";
       mainText.style.position = "relative";
-      mainText.innerHTML = 'Created By <span style="font-weight: bold;">Dhruv</span>';
+      mainText.innerHTML = 'Created By <span style="font-weight: bold;">Dhruv only</span>';
       creatorDiv.appendChild(mainText);
 
       // Create the tooltip
