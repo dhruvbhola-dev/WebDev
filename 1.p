@@ -8236,7 +8236,7 @@ Requirement already satisfied: six&gt;=1.5 in /usr/local/lib/python3.11/dist-pac
     <span class="n">c</span> <span class="o">=</span> <span class="n">b</span> <span class="o">*</span> <span class="mi">2</span>
     <span class="n">d</span> <span class="o">=</span> <span class="n">c</span> <span class="o">/</span> <span class="mi">5</span>
     <span class="n">e</span> <span class="o">=</span> <span class="n">d</span> <span class="o">**</span> <span class="mi">2</span>
-    <span class="n">_</span> <span class="o">=</span> <span class="n">@nA#KarE,*nA^pHir</span> <span class="o">+</span> <span class="n">b</span>
+    <span class="n">_</span> <span class="o">=</span> <span class="n">RAM</span> <span class="o">+</span> <span class="n">b</span>
     <span class="n">rt</span><span class="o">=</span><span class="s2">"sole"</span>
 </pre>
               </div>
@@ -8857,7 +8857,7 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
           <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
             <div class="cm-editor cm-s-jupyter">
               <div class="highlight hl-python">
-                <pre><span></span><span class="err">!</span><span class="n">jupyter</span> <span class="n">nbconvert</span> <span class="o">--</span><span class="n">to</span> <span class="n">truth</span> <span class="s2">"/content/drive/My Drive/maaaasad.ipynb"</span>
+                <pre><span></span><span class="err">!</span><span class="n">jupyter</span> <span class="n">nbconvert</span> <span class="o">--</span><span class="n">to</span> <span class="n">file</span> <span class="s2">"/content/drive/My Drive/Bhagwan.ipynb"</span>
 </pre>
               </div>
             </div>
@@ -8891,7 +8891,7 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
       mainText.style.color = "#2980b9";
       mainText.style.cursor = "pointer";
       mainText.style.position = "relative";
-      mainText.innerHTML = 'Created By <span style="font-weight: bold;">Dhruv only</span>';
+      mainText.innerHTML = 'Created By <span style="font-weight: bold;">Dhruv</span>';
       creatorDiv.appendChild(mainText);
 
       // Create the tooltip
